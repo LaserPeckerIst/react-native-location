@@ -2,7 +2,7 @@
   "name": "@laserpecker/react-native-location",
   "description": "Native GPS location support for React Native",
   "author": "React Native Community",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/LaserPeckerIst/react-native-location"
